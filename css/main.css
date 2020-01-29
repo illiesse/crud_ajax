@@ -1,0 +1,28 @@
+li{
+	list-style: none;
+	display: flex;
+}
+
+a{
+	color: white;
+}
+
+img{
+	width: 35px;
+	height: 35px;
+}
+
+@font-face{
+    font-family: "SketchGothicSchool";
+    src: url("../fonts/SketchGothicSchool.ttf");
+    font-family: "BREECBO_";
+    src: url("../fonts/BREECBO_.TTF");
+}
+
+#les_bieres{
+	font-family: "SketchGothicSchool";
+}
+
+#les_voitures{
+	font-family: "BREECBO_";
+}
